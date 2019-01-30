@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="name_placeholder">Name</string>
+    <string name="toppings_label">Toppings</string>
+    <string name="whipped_cream_chk_box_label">Whipped Cream</string>
+    <string name="chocolate_chk_box_label">Chocolate Topping</string>
+    <string name="quantity_label">Quantity</string>
+    <string name="order_summary_label">Order Summary</string>
+    <string name="order_button_label">Order</string>
+    <string name="toast_qty_too_small">You can not order less than 1 cup of coffee.</string>
+    <string name="toast_qty_too_big">You can not order more than 10 cups of coffee.</string>
+    <string name="email_subj_snippet"> Order For </string>
+    <string name="order_status_name_label">Name</string>
+    <string name="order_status_quantity_label">Quantity</string>
+    <string name="order_status_whipped_cream">Whipped Cream Added</string>
+    <string name="order_status_chocolate">Chocolate Topping Added</string>
+    <string name="order_status_total">Total</string>
+    <string name="order_status_label_value_delimiter">: </string>
+    <string name="order_status_thank_you">Thank you!</string>
+</resources>
